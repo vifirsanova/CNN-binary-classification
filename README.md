@@ -4,3 +4,5 @@
 ---
 
 # Results (результаты)
+
+[BERT based model repository (репозиторий модели, построенной с BERT)](https://github.com/vifirsanova/Binary-Text-Classification-with-BERT)
