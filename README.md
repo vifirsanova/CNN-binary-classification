@@ -1,6 +1,16 @@
 # CNN Binary Text Classification (бинарная классификация текстов с помощью сверточных нейросетей) 
 [Dataset source (источник датасета)](https://figshare.com/articles/dataset/VK_binary_classification/13712215)
 
+[Examples of work of the classifier (примеры работы классификатора)](https://github.com/vifirsanova/CNN-binary-classification/blob/main/Examples.pdf)
+
+[Frequency dictionary used for vector representations building (частотный словарь для создания векторных представлений слов)](https://github.com/vifirsanova/CNN-binary-classification/blob/main/FreqIndexes%20(1_1000).pdf)
+
+[VK API based data loader (загрузчик данных, построенный с помощью VK API)](https://github.com/vifirsanova/CNN-binary-classification/blob/main/Data_loader.py)
+
+[Classifier notebook (блокнот классификатора)](https://github.com/vifirsanova/CNN-binary-classification/blob/main/Classifier.ipynb)
+
+[Dataset compilation code (код сборки датасета)](https://github.com/vifirsanova/CNN-binary-classification/blob/main/dataset-compilation.py)
+
 ---
 
 # Results (результаты)
