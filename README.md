@@ -15,4 +15,11 @@
 
 # Results (результаты)
 
-[BERT based model repository (репозиторий модели, построенной с BERT)](https://github.com/vifirsanova/Binary-Text-Classification-with-BERT)
+[BERT-based model repository (репозиторий модели, построенной с BERT)](https://github.com/vifirsanova/Binary-Text-Classification-with-BERT)
+
+|                           |CNN-based classifier|BERT-based classsifier|
+|---------------------------|--------------------|----------------------|
+|**Precision (точность)**   |0.99                |0.87                  |
+|**Recall (полнота)**       |0.99                |0.83                  |
+|**F-Score (F-мера)**       |0.99                |0.84                  |
+|**Accuracy (аккуратность)**|0.95                |0.83                  |
